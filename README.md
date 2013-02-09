@@ -8,6 +8,9 @@ provides a dynamic resource required for testing resource handling:
 * Define response status and message
 * Relocate (after possible delay) to another resource
 
+## W3C Test Framework ##
+
+The test-resource is available at [http://w3c-test.org/delay/](http://w3c-test.org/delay/) and [http://test.csswg.org/delay/](http://test.csswg.org/delay/) (also via HTTPS at both locations).
 
 ## Usage ##
 
